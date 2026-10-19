@@ -1,0 +1,8 @@
+/client
+/clien
+/server
+/build/
+*.o
+*.gguf
+.env
+.env.*
